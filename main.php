@@ -28,7 +28,7 @@ if(strpos($text, "/start") === 0){
 	'chat_id'=>$chat_id,
 	'text'=>"<b>Hey $from_fname,
 
-I'm $USERNAMEBOT. I can do several Things!😆
+I'm $USERNAMEBOT. I can do several Things!😆 I am made by @figletaxl
 
 Click the Button Below to open help menu!</b>",
 	'parse_mode'=>'html',
